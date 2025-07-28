@@ -124,6 +124,10 @@ h3 {
 
 p {
     margin-bottom: 15px;
+    /* --- INÍCIO DA MODIFICAÇÃO PARA JUSTIFICAR TEXTO --- */
+    text-align: justify;
+    line-height: 1.7; /* Aumentado para melhor legibilidade com justificação */
+    /* --- FIM DA MODIFICAÇÃO --- */
 }
 
 ul {
@@ -136,6 +140,10 @@ ul li {
     position: relative;
     padding-left: 25px; /* Space for custom bullet */
     margin-bottom: 8px;
+    /* --- INÍCIO DA MODIFICAÇÃO PARA JUSTIFICAR TEXTO --- */
+    text-align: justify; /* Aplica justificação aos itens da lista */
+    line-height: 1.6; /* Aumentado para melhor legibilidade */
+    /* --- FIM DA MODIFICAÇÃO --- */
 }
 
 ul li:before {
