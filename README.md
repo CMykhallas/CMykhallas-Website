@@ -71,7 +71,7 @@ For developers, technical reviewers, or anyone requiring direct local instantiat
 
 The live, publicly accessible version of this professional portfolio is hosted and managed through the GitHub Pages infrastructure. The definitive URL for access will be systematically generated and made available upon the successful completion of the deployment cycle, typically adhering to the following structure:
 
-`https://CoronelMykhallas.github.io/CMykhallas-Website/`
+`https://CMykhallas.github.io/CMykhallas-Website/`
 
 *(It is recommended to verify the precise URL within your GitHub repository settings under the "Pages" section subsequent to deployment confirmation.)*
 
